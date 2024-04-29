@@ -51,8 +51,8 @@
     if(isMobile){
 
         let playLine = [
-            {"name":"默认接口","url":"https://www.yemu.xyz/?url="},
-            {"name":"备用接口","url":"https://jx.jsonplayer.com/player/?url="},
+            {"name":"默认接口","url":"https://jx.jsonplayer.com/player/?url="},
+            {"name":"备用接口","url":"https://www.yemu.xyz/?url="},
             {"name":"备用接口2","url":"https://2.08bk.com/?url="},
             {"name":"备用接口3","url":"https://jx.nnxv.cn/tv.php?url="},
             {"name":"备用接口4","url":"https://jx.yangtu.top/?url="}
@@ -479,8 +479,8 @@
         ];
 
                var playLine = [
-                {"name":"默认接口","url":"https://www.yemu.xyz/?url=","mobile":1},
-                {"name":"备用接口","url":"https://jx.jsonplayer.com/player/?url=","mobile":1},
+                {"name":"默认接口","url":"https://jx.jsonplayer.com/player/?url=","mobile":1},
+                {"name":"备用接口","url":"https://www.yemu.xyz/?url=","mobile":1},
                 {"name":"备用接口2","url":"https://2.08bk.com/?url=","mobile":0},
                 {"name":"备用接口3","url":"https://jx.nnxv.cn/tv.php?url=","mobile":0},
                 {"name":"备用接口4","url":"https://jx.yangtu.top/?url=","mobile":0}
@@ -1010,8 +1010,8 @@
                     'textarea':'videoPlayLineAddTextarea',
                     'textareaId':'playVideoLineTextarea',
                     'tip':
-`默认接口,https://www.yemu.xyz/?url=
-备用接口,https://jx.jsonplayer.com/player/?url=
+`默认接口,https://jx.jsonplayer.com/player/?url=
+备用接口,https://www.yemu.xyz/?url=
 备用接口2,https://2.08bk.com/?url=
 备用接口3,https://jx.nnxv.cn/tv.php?url=
 备用接口4,https://jx.yangtu.top/?url=
